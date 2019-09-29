@@ -1,0 +1,11 @@
+C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo\obj\Debug\demo.exe
+C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo\obj\Debug\demo.pdb
+C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo\bin\Debug\demo.exe
+C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo\bin\Debug\demo.pdb
+C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo\bin\Debug\HuntControls.dll
+C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo\bin\Debug\HuntControls.pdb
+C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo\obj\Debug\QuanLyQuanBida.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo\obj\Debug\demo.FrmMain.resources
+C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo\obj\Debug\demo.Properties.Resources.resources
+C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo\obj\Debug\QuanLyQuanBida.csproj.GenerateResource.Cache
+C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo\obj\Debug\demo.exe.licenses
