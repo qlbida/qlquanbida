@@ -17,7 +17,7 @@ namespace demo
             InitializeComponent();
         }
 
-        List<Button> dsban = new List<Button>();
+        List<SimpleButton> dsban = new List<SimpleButton>();
 
         private void timer1_Tick(object sender, EventArgs e)
         {
@@ -55,14 +55,14 @@ namespace demo
                     {
                         ban.Size = new Size(200, 200);
                         ban.Top = i * 250;
-                        ban.Left = j * 200;
+                        ban.Left = j * 250;
 
                         ban.Text = "Bàn " + soban.ToString() + "\n Sẵn sàng đón khách";
                         ban.Name = "Btn" + soban.ToString();
 
-                        ban.BackColor = Color.Green;
-
+                        ban.LookAndFeel.SetSkinStyle("Office 2007 Green");
                         this.Controls.Add(ban);
+                        dsban.Add(ban);
                         soban++;
                     }
                 }
