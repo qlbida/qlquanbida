@@ -137,7 +137,7 @@
             this.barBtnNhaCC,
             this.barBtnKhachHang});
             this.ribbonControl1.Location = new System.Drawing.Point(0, 0);
-            this.ribbonControl1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.ribbonControl1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.ribbonControl1.MaxItemId = 41;
             this.ribbonControl1.Name = "ribbonControl1";
             this.ribbonControl1.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
@@ -147,7 +147,7 @@
             this.ribbonControl1.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemZoomTrackBar1});
             this.ribbonControl1.RibbonStyle = DevExpress.XtraBars.Ribbon.RibbonControlStyle.Office2010;
-            this.ribbonControl1.Size = new System.Drawing.Size(1518, 230);
+            this.ribbonControl1.Size = new System.Drawing.Size(1265, 194);
             this.ribbonControl1.StatusBar = this.ribbonStatusBar1;
             this.ribbonControl1.Click += new System.EventHandler(this.ribbonControl1_Click);
             // 
@@ -207,7 +207,7 @@
             // 
             // btnNguoiDung
             // 
-            this.btnNguoiDung.Caption = "Tên người dùng:";
+            this.btnNguoiDung.Caption = "Tên người dùng: ";
             this.btnNguoiDung.Id = 15;
             this.btnNguoiDung.Name = "btnNguoiDung";
             // 
@@ -499,11 +499,10 @@
             this.ribbonStatusBar1.ItemLinks.Add(this.btnNguoiDung);
             this.ribbonStatusBar1.ItemLinks.Add(this.btnNhomQuyen);
             this.ribbonStatusBar1.ItemLinks.Add(this.barButtonItem7);
-            this.ribbonStatusBar1.Location = new System.Drawing.Point(0, 868);
-            this.ribbonStatusBar1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.ribbonStatusBar1.Location = new System.Drawing.Point(0, 723);
             this.ribbonStatusBar1.Name = "ribbonStatusBar1";
             this.ribbonStatusBar1.Ribbon = this.ribbonControl1;
-            this.ribbonStatusBar1.Size = new System.Drawing.Size(1518, 48);
+            this.ribbonStatusBar1.Size = new System.Drawing.Size(1265, 40);
             // 
             // ribbonPageGroup3
             // 
@@ -526,13 +525,12 @@
             // colorEdit1
             // 
             this.colorEdit1.EditValue = System.Drawing.Color.Empty;
-            this.colorEdit1.Location = new System.Drawing.Point(-25, -18);
-            this.colorEdit1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.colorEdit1.Location = new System.Drawing.Point(-21, -15);
             this.colorEdit1.MenuManager = this.ribbonControl1;
             this.colorEdit1.Name = "colorEdit1";
             this.colorEdit1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.colorEdit1.Size = new System.Drawing.Size(120, 26);
+            this.colorEdit1.Size = new System.Drawing.Size(100, 22);
             this.colorEdit1.TabIndex = 14;
             // 
             // barButtonItem8
@@ -564,61 +562,60 @@
             this.dọnBànToolStripMenuItem1,
             this.sửaBànToolStripMenuItem});
             this.contextMSDatBan.Name = "contextMSDatBan";
-            this.contextMSDatBan.Size = new System.Drawing.Size(218, 196);
+            this.contextMSDatBan.Size = new System.Drawing.Size(189, 160);
             // 
             // kháchVàoChơiToolStripMenuItem
             // 
             this.kháchVàoChơiToolStripMenuItem.Name = "kháchVàoChơiToolStripMenuItem";
-            this.kháchVàoChơiToolStripMenuItem.Size = new System.Drawing.Size(217, 30);
+            this.kháchVàoChơiToolStripMenuItem.Size = new System.Drawing.Size(188, 24);
             this.kháchVàoChơiToolStripMenuItem.Text = "Khách vào chơi";
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(214, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(185, 6);
             // 
             // thôngTinKháchToolStripMenuItem
             // 
             this.thôngTinKháchToolStripMenuItem.Name = "thôngTinKháchToolStripMenuItem";
-            this.thôngTinKháchToolStripMenuItem.Size = new System.Drawing.Size(217, 30);
+            this.thôngTinKháchToolStripMenuItem.Size = new System.Drawing.Size(188, 24);
             this.thôngTinKháchToolStripMenuItem.Text = "Thông tin khách";
             // 
             // cậpNhậtDịchVụToolStripMenuItem
             // 
             this.cậpNhậtDịchVụToolStripMenuItem.Name = "cậpNhậtDịchVụToolStripMenuItem";
-            this.cậpNhậtDịchVụToolStripMenuItem.Size = new System.Drawing.Size(217, 30);
+            this.cậpNhậtDịchVụToolStripMenuItem.Size = new System.Drawing.Size(188, 24);
             this.cậpNhậtDịchVụToolStripMenuItem.Text = "Cập nhật dịch vụ";
             // 
             // dọnBànToolStripMenuItem
             // 
             this.dọnBànToolStripMenuItem.Name = "dọnBànToolStripMenuItem";
-            this.dọnBànToolStripMenuItem.Size = new System.Drawing.Size(217, 30);
+            this.dọnBànToolStripMenuItem.Size = new System.Drawing.Size(188, 24);
             this.dọnBànToolStripMenuItem.Text = "Đổi bàn";
             // 
             // toolStripSeparator3
             // 
             this.toolStripSeparator3.Name = "toolStripSeparator3";
-            this.toolStripSeparator3.Size = new System.Drawing.Size(214, 6);
+            this.toolStripSeparator3.Size = new System.Drawing.Size(185, 6);
             // 
             // dọnBànToolStripMenuItem1
             // 
             this.dọnBànToolStripMenuItem1.Name = "dọnBànToolStripMenuItem1";
-            this.dọnBànToolStripMenuItem1.Size = new System.Drawing.Size(217, 30);
+            this.dọnBànToolStripMenuItem1.Size = new System.Drawing.Size(188, 24);
             this.dọnBànToolStripMenuItem1.Text = "Dọn bàn";
             // 
             // sửaBànToolStripMenuItem
             // 
             this.sửaBànToolStripMenuItem.Name = "sửaBànToolStripMenuItem";
-            this.sửaBànToolStripMenuItem.Size = new System.Drawing.Size(217, 30);
+            this.sửaBànToolStripMenuItem.Size = new System.Drawing.Size(188, 24);
             this.sửaBànToolStripMenuItem.Text = "Sửa bàn";
             // 
             // labelControl1
             // 
             this.labelControl1.Appearance.BackColor = System.Drawing.Color.Red;
-            this.labelControl1.Location = new System.Drawing.Point(587, 293);
-            this.labelControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.labelControl1.Location = new System.Drawing.Point(489, 244);
             this.labelControl1.Name = "labelControl1";
-            this.labelControl1.Size = new System.Drawing.Size(0, 19);
+            this.labelControl1.Size = new System.Drawing.Size(0, 16);
             this.labelControl1.TabIndex = 16;
             // 
             // ribbonPGThuChi
@@ -637,17 +634,17 @@
             this.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.Appearance.Options.UseBackColor = true;
             this.Appearance.Options.UseFont = true;
-            this.AutoScaleDimensions = new System.Drawing.SizeF(144F, 144F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.AutoScroll = true;
-            this.ClientSize = new System.Drawing.Size(1518, 916);
+            this.ClientSize = new System.Drawing.Size(1265, 763);
             this.Controls.Add(this.labelControl1);
             this.Controls.Add(this.ribbonStatusBar1);
             this.Controls.Add(this.colorEdit1);
             this.Controls.Add(this.ribbonControl1);
             this.Font = new System.Drawing.Font("Tahoma", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "FrmMain";
             this.Ribbon = this.ribbonControl1;
             this.StatusBar = this.ribbonStatusBar1;

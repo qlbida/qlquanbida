@@ -39,7 +39,11 @@ namespace demo
 
         private void FrmMain_Load(object sender, EventArgs e)
         {
-            taoBanBida(14); // gồm 14 bàn bida
+            taoBanBida(14); //số bàn có thể thay đổi
+
+            //Chỗ truyền dữ liệu từ form đăng nhập
+            btnNguoiDung.Caption += "Tuấn Khôi";
+            btnNhomQuyen.Caption += " Admin";
         }
 
         void taoBanBida(int n)
@@ -61,6 +65,9 @@ namespace demo
                         ban.Name = "Btn" + soban.ToString();
 
                         ban.LookAndFeel.SetSkinStyle("Office 2007 Green");
+
+                        ban.ContextMenuStrip = contextMSDatBan;
+
                         this.Controls.Add(ban);
                         dsban.Add(ban);
                         soban++;
