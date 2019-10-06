@@ -1,0 +1,4 @@
+C:\Users\My PC\Desktop\demo23\XuLy\bin\Debug\XuLy.dll
+C:\Users\My PC\Desktop\demo23\XuLy\bin\Debug\XuLy.pdb
+C:\Users\My PC\Desktop\demo23\XuLy\obj\Debug\XuLy.dll
+C:\Users\My PC\Desktop\demo23\XuLy\obj\Debug\XuLy.pdb
