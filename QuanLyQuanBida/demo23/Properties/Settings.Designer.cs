@@ -26,11 +26,21 @@ namespace demo23.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAPTOP-V3N8G0SP;Initial Catalog=QL_NguoiDung;User ID=sa;Password=sa20" +
-            "12")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAPTOP-V3N8G0SP;Initial Catalog=QLQuanBIDA;User ID=sa;Password=sa2012" +
+            "")]
         public string LTWNCConn {
             get {
                 return ((string)(this["LTWNCConn"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAPTOP-V3N8G0SP;Initial Catalog=QLQuanBIDA;Integrated Security=True")]
+        public string QLQuanBIDAConnectionString {
+            get {
+                return ((string)(this["QLQuanBIDAConnectionString"]));
             }
         }
     }

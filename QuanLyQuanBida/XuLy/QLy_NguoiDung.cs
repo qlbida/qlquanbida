@@ -12,6 +12,7 @@ namespace XuLy
     public class QLy_NguoiDung
     {
         public string connect; //connect = Properties.Settings.Default.LTWNCConn;
+        public string tendn;
 
         //Kiểm tra chuỗi cấu hình
         public int Check_Config()

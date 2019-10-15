@@ -24,14 +24,18 @@ namespace demo23
             {
                 SetProcessDPIAware();
             }
+            //Bonus thêm nhiều Skins
+            DevExpress.UserSkins.BonusSkins.Register();
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            //fdn = new FrmDangNhap();
-            //Application.Run(fdn);
+            fdn = new FrmDangNhap();
+            Application.Run(fdn);
             //Application.Run(new FrmCauHinh());
             //Application.Run(new FrnNguoiDung());
-            Application.Run(new FrmNguoiDung_NhomND());
+            //Application.Run(new FrmNguoiDung_NhomND());
+            //Application.Run(new FrmPhanQuyen());
         }
     }
 }

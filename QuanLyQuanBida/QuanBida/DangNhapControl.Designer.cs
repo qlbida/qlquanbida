@@ -36,8 +36,8 @@
             this.txtMatKhau = new DevExpress.XtraEditors.TextEdit();
             this.pictureEdit1 = new DevExpress.XtraEditors.PictureEdit();
             this.btnDangNhap = new DevExpress.XtraEditors.SimpleButton();
-            this.lblAnHien = new DevExpress.XtraEditors.LabelControl();
             this.labelControl4 = new DevExpress.XtraEditors.LabelControl();
+            this.checkBox1 = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.txtTenDN.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtMatKhau.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureEdit1.Properties)).BeginInit();
@@ -58,7 +58,7 @@
             this.btnThoat.Appearance.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btnThoat.Appearance.Options.UseFont = true;
             this.btnThoat.Image = ((System.Drawing.Image)(resources.GetObject("btnThoat.Image")));
-            this.btnThoat.Location = new System.Drawing.Point(204, 186);
+            this.btnThoat.Location = new System.Drawing.Point(204, 194);
             this.btnThoat.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(134, 36);
@@ -93,11 +93,13 @@
             this.txtMatKhau.Name = "txtMatKhau";
             this.txtMatKhau.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.txtMatKhau.Properties.Appearance.Options.UseFont = true;
+            this.txtMatKhau.Properties.PasswordChar = '*';
             this.txtMatKhau.Size = new System.Drawing.Size(229, 30);
             this.txtMatKhau.TabIndex = 3;
             // 
             // pictureEdit1
             // 
+            this.pictureEdit1.EditValue = ((object)(resources.GetObject("pictureEdit1.EditValue")));
             this.pictureEdit1.Location = new System.Drawing.Point(17, 32);
             this.pictureEdit1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureEdit1.Name = "pictureEdit1";
@@ -111,24 +113,13 @@
             this.btnDangNhap.Appearance.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.btnDangNhap.Appearance.Options.UseFont = true;
             this.btnDangNhap.Image = ((System.Drawing.Image)(resources.GetObject("btnDangNhap.Image")));
-            this.btnDangNhap.Location = new System.Drawing.Point(415, 186);
+            this.btnDangNhap.Location = new System.Drawing.Point(415, 194);
             this.btnDangNhap.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnDangNhap.Name = "btnDangNhap";
             this.btnDangNhap.Size = new System.Drawing.Size(160, 36);
             this.btnDangNhap.TabIndex = 6;
             this.btnDangNhap.Text = "Đăng nhập";
             this.btnDangNhap.Click += new System.EventHandler(this.btnDangNhap_Click);
-            // 
-            // lblAnHien
-            // 
-            this.lblAnHien.Appearance.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.lblAnHien.Location = new System.Drawing.Point(592, 122);
-            this.lblAnHien.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.lblAnHien.Name = "lblAnHien";
-            this.lblAnHien.Size = new System.Drawing.Size(32, 24);
-            this.lblAnHien.TabIndex = 7;
-            this.lblAnHien.Text = "eye";
-            this.lblAnHien.Click += new System.EventHandler(this.lblAnHien_Click);
             // 
             // labelControl4
             // 
@@ -140,12 +131,24 @@
             this.labelControl4.TabIndex = 8;
             this.labelControl4.Text = "- Vui lòng kiểm tra Caps lock, Unikey.. trước khi đăng nhập";
             // 
+            // checkBox1
+            // 
+            this.checkBox1.AutoSize = true;
+            this.checkBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.checkBox1.Location = new System.Drawing.Point(346, 157);
+            this.checkBox1.Name = "checkBox1";
+            this.checkBox1.Size = new System.Drawing.Size(121, 21);
+            this.checkBox1.TabIndex = 10;
+            this.checkBox1.Text = "Hiện mật khẩu";
+            this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            // 
             // DangNhapControl
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.labelControl4);
-            this.Controls.Add(this.lblAnHien);
             this.Controls.Add(this.btnDangNhap);
             this.Controls.Add(this.pictureEdit1);
             this.Controls.Add(this.labelControl2);
@@ -156,7 +159,7 @@
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "DangNhapControl";
-            this.Size = new System.Drawing.Size(635, 297);
+            this.Size = new System.Drawing.Size(599, 297);
             ((System.ComponentModel.ISupportInitialize)(this.txtTenDN.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtMatKhau.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureEdit1.Properties)).EndInit();
@@ -174,7 +177,7 @@
         private DevExpress.XtraEditors.TextEdit txtMatKhau;
         private DevExpress.XtraEditors.PictureEdit pictureEdit1;
         private DevExpress.XtraEditors.SimpleButton btnDangNhap;
-        private DevExpress.XtraEditors.LabelControl lblAnHien;
         private DevExpress.XtraEditors.LabelControl labelControl4;
+        private System.Windows.Forms.CheckBox checkBox1;
     }
 }

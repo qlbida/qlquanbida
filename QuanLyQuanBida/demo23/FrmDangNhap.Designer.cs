@@ -37,19 +37,20 @@
             this.dangNhapControl1.Location = new System.Drawing.Point(13, 14);
             this.dangNhapControl1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.dangNhapControl1.Name = "dangNhapControl1";
-            this.dangNhapControl1.Size = new System.Drawing.Size(636, 297);
+            this.dangNhapControl1.Size = new System.Drawing.Size(593, 297);
             this.dangNhapControl1.TabIndex = 0;
             // 
             // FrmDangNhap
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
-            this.ClientSize = new System.Drawing.Size(662, 325);
+            this.ClientSize = new System.Drawing.Size(620, 325);
             this.Controls.Add(this.dangNhapControl1);
             this.Name = "FrmDangNhap";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FormDN2";
+            this.Text = "Đăng nhập";
             this.Load += new System.EventHandler(this.FormDN2_Load);
+            this.VisibleChanged += new System.EventHandler(this.FrmDangNhap_VisibleChanged);
             this.ResumeLayout(false);
 
         }

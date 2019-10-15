@@ -17,6 +17,7 @@ namespace QuanBida
         public Form formConfig;
         public Form formMain;
         public string strcon;
+        public string tendn;
         public QLy_NguoiDung CauHinh = new QLy_NguoiDung();
         
         public DangNhapControl()
@@ -27,7 +28,7 @@ namespace QuanBida
         private void btnDangNhap_Click(object sender, EventArgs e)
         {
             CauHinh.connect = strcon;
-            MessageBox.Show(CauHinh.connect);
+            //MessageBox.Show(CauHinh.connect);
 
             if (string.IsNullOrEmpty(txtTenDN.Text.Trim()))
             {
@@ -41,7 +42,7 @@ namespace QuanBida
                 txtMatKhau.Focus();
                 return;
             }
-
+ 
             int kq = CauHinh.Check_Config(); 
             if (kq == 0)
             {
@@ -62,6 +63,7 @@ namespace QuanBida
         {
             int result;
             result = CauHinh.Check_User(txtTenDN.Text, txtMatKhau.Text);
+            
             // Wrong username or pass
             if (result == -1)
             {
@@ -73,6 +75,7 @@ namespace QuanBida
                 MessageBox.Show("Tài khoản này đã bị khóa !!");
                 return;
             }
+            tendn = txtTenDN.Text;
 
             formLogin.Visible = false;
             formMain.Show();
@@ -83,19 +86,16 @@ namespace QuanBida
             formLogin.Close();
         }
 
-        private void lblAnHien_Click(object sender, EventArgs e)
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            if (txtMatKhau.Properties.PasswordChar == '.')
+            if (txtMatKhau.Properties.PasswordChar == '*' && checkBox1.Checked == true)
             {
                 txtMatKhau.Properties.PasswordChar = '\0';
-                //lblAnHien.ImageIndex = 0;
             }
             else
             {
-                txtMatKhau.Properties.PasswordChar = '.';
-                //lblAnHien.ImageIndex = 1;
+                txtMatKhau.Properties.PasswordChar = '*';
             }
         } 
-
     }
 }
