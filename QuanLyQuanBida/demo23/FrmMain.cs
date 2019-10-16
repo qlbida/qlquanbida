@@ -7,10 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
-using DevExpress.Xpf.Ribbon;
 using System.Data.SqlClient;
 using QuanBida;
-using DevExpress.XtraBars;
+using DevExpress.XtraBars; //duyet Ribbon control
 
 namespace demo23
 {
@@ -62,10 +61,6 @@ namespace demo23
 
             //Phân quyền
             phanQuyen(tendn, nhom);
-
-            //List<string> a = timManHinhBiKhoa(nhom.First());
-            //foreach (string mh in a)
-            //    MessageBox.Show(mh);
         }
 
         //Xử lý hiện thị bàn
@@ -206,6 +201,7 @@ namespace demo23
         private void barBtnDoiMK_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             FrmDoiMatKhau fm = new FrmDoiMatKhau();
+            fm.tennd = tendn;
             fm.ShowDialog();
         }
 
