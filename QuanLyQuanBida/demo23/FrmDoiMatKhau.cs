@@ -8,6 +8,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
+using DevExpress.LookAndFeel; //skin màu cho form
 
 namespace demo23
 {
@@ -23,7 +24,7 @@ namespace demo23
 
         private void btnThoat_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
 
         private void btnDoi_Click(object sender, EventArgs e)
@@ -38,6 +39,7 @@ namespace demo23
 
         private void FrmDoiMatKhau_Load(object sender, EventArgs e)
         {
+            UserLookAndFeel.Default.SetSkinStyle("Office 2010 Blue");
             // TODO: This line of code loads data into the 'dataSetBida.NGUOIDUNG' table. You can move, or remove it, as needed.
             this.nGUOIDUNGTableAdapter.Fill(this.dataSetBida.NGUOIDUNG);
             txtTenDN.Text = tennd;

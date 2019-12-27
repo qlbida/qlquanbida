@@ -8,6 +8,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
+using DevExpress.LookAndFeel; //skin màu cho form
 
 namespace demo23
 {
@@ -30,7 +31,20 @@ namespace demo23
         {
             // TODO: This line of code loads data into the 'dataSetBida.KHACHHANG' table. You can move, or remove it, as needed.
             this.kHACHHANGTableAdapter.Fill(this.dataSetBida.KHACHHANG);
+            UserLookAndFeel.Default.SetSkinStyle("Office 2010 Blue");
+            // TODO: This line of code loads data into the 'dataSetBida.KHACHHANG' table. You can move, or remove it, as needed.
+            this.kHACHHANGTableAdapter.Fill(this.dataSetBida.KHACHHANG);
 
+        }
+
+        private void btnThem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Chưa xử lý gì đâu =))");
+        }
+
+        private void btnSua_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Chưa xử lý gì đâu =))");
         }
     }
 }

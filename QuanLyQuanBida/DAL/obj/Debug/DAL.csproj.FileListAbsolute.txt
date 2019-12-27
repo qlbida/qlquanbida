@@ -1,0 +1,30 @@
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\DAL\bin\Debug\DAL.dll.config
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\DAL\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\DAL\bin\Debug\DAL.pdb
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\DAL\obj\Debug\DAL.dll
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\DAL\obj\Debug\DAL.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\DAL\bin\Debug\DAL.dll.config
+C:\Users\My PC\Desktop\QuanLyQuanBida\DAL\bin\Debug\DAL.dll
+C:\Users\My PC\Desktop\QuanLyQuanBida\DAL\bin\Debug\DAL.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\DAL\obj\Debug\DAL.dll
+C:\Users\My PC\Desktop\QuanLyQuanBida\DAL\obj\Debug\DAL.pdb
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\DAL\bin\Debug\DAL.dll.config
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\DAL\bin\Debug\DAL.dll
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\DAL\bin\Debug\DAL.pdb
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\DAL\obj\Debug\DAL.dll
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\DAL\obj\Debug\DAL.pdb
+D:\LTWinNangCao\New folder\QuanLyQuanBida\DAL\bin\Debug\DAL.dll.config
+D:\LTWinNangCao\New folder\QuanLyQuanBida\DAL\bin\Debug\DAL.dll
+D:\LTWinNangCao\New folder\QuanLyQuanBida\DAL\bin\Debug\DAL.pdb
+D:\LTWinNangCao\New folder\QuanLyQuanBida\DAL\obj\Debug\DAL.dll
+D:\LTWinNangCao\New folder\QuanLyQuanBida\DAL\obj\Debug\DAL.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\DAL\bin\Debug\DAL.dll.config
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\DAL\bin\Debug\DAL.dll
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\DAL\bin\Debug\DAL.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\DAL\obj\Debug\DAL.dll
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\DAL\obj\Debug\DAL.pdb
+C:\Users\Mylap\Desktop\QuanLyQuanBida\DAL\obj\Debug\DAL.dll
+C:\Users\Mylap\Desktop\QuanLyQuanBida\DAL\bin\Debug\DAL.dll.config
+C:\Users\Mylap\Desktop\QuanLyQuanBida\DAL\bin\Debug\DAL.dll
+C:\Users\Mylap\Desktop\QuanLyQuanBida\DAL\bin\Debug\DAL.pdb
+C:\Users\Mylap\Desktop\QuanLyQuanBida\DAL\obj\Debug\DAL.pdb

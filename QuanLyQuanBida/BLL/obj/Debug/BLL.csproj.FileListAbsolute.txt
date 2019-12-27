@@ -1,0 +1,42 @@
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\BLL\bin\Debug\BLL.dll
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\BLL\bin\Debug\BLL.pdb
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\BLL\obj\Debug\BLL.dll
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\BLL\obj\Debug\BLL.pdb
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\BLL\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\BLL\bin\Debug\DAL.pdb
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\QuanLyQuanBida\BLL\bin\Debug\BLL.dll
+C:\Users\My PC\Desktop\QuanLyQuanBida\BLL\bin\Debug\BLL.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\BLL\bin\Debug\DAL.dll
+C:\Users\My PC\Desktop\QuanLyQuanBida\BLL\bin\Debug\DAL.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\BLL\obj\Debug\BLL.dll
+C:\Users\My PC\Desktop\QuanLyQuanBida\BLL\obj\Debug\BLL.pdb
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\BLL\bin\Debug\BLL.dll
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\BLL\bin\Debug\BLL.pdb
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\BLL\bin\Debug\DAL.dll
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\BLL\bin\Debug\DAL.pdb
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\BLL\obj\Debug\BLL.dll
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\BLL\obj\Debug\BLL.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\BLL\bin\Debug\BLL.dll
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\BLL\bin\Debug\BLL.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\BLL\bin\Debug\DAL.dll
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\BLL\bin\Debug\DAL.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\BLL\obj\Debug\BLL.dll
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\BLL\obj\Debug\BLL.pdb
+D:\LTWinNangCao\New folder\QuanLyQuanBida\BLL\bin\Debug\BLL.dll
+D:\LTWinNangCao\New folder\QuanLyQuanBida\BLL\bin\Debug\BLL.pdb
+D:\LTWinNangCao\New folder\QuanLyQuanBida\BLL\bin\Debug\DAL.dll
+D:\LTWinNangCao\New folder\QuanLyQuanBida\BLL\bin\Debug\DAL.pdb
+D:\LTWinNangCao\New folder\QuanLyQuanBida\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\LTWinNangCao\New folder\QuanLyQuanBida\BLL\obj\Debug\BLL.dll
+D:\LTWinNangCao\New folder\QuanLyQuanBida\BLL\obj\Debug\BLL.pdb
+C:\Users\Mylap\Desktop\QuanLyQuanBida\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Mylap\Desktop\QuanLyQuanBida\BLL\obj\Debug\BLL.dll
+C:\Users\Mylap\Desktop\QuanLyQuanBida\BLL\bin\Debug\BLL.dll
+C:\Users\Mylap\Desktop\QuanLyQuanBida\BLL\bin\Debug\BLL.pdb
+C:\Users\Mylap\Desktop\QuanLyQuanBida\BLL\bin\Debug\DAL.dll
+C:\Users\Mylap\Desktop\QuanLyQuanBida\BLL\bin\Debug\DAL.pdb
+C:\Users\Mylap\Desktop\QuanLyQuanBida\BLL\obj\Debug\BLL.pdb

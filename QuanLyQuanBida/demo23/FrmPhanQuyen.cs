@@ -8,11 +8,14 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
+using DevExpress.LookAndFeel; //skin màu cho form
 
 namespace demo23
 {
     public partial class FrmPhanQuyen : DevExpress.XtraEditors.XtraForm
     {
+        public DataGridView dongchon;
+
         public FrmPhanQuyen()
         {
             InitializeComponent();
@@ -20,6 +23,7 @@ namespace demo23
 
         private void FrmPhanQuyen_Load(object sender, EventArgs e)
         {
+            UserLookAndFeel.Default.SetSkinStyle("Office 2010 Blue");
             // TODO: This line of code loads data into the 'dataSetBida.CT_NHOMNGUOIDUNG_MANHINH' table. You can move, or remove it, as needed.
             this.cT_NHOMNGUOIDUNG_MANHINHTableAdapter.Fill(this.dataSetBida.CT_NHOMNGUOIDUNG_MANHINH);
             // TODO: This line of code loads data into the 'dataSetBida.CT_NHOMNGUOIDUNG_MANHINH' table. You can move, or remove it, as needed.
@@ -46,44 +50,66 @@ namespace demo23
             string manhom = gridViewNhom.GetRowCellValue(rowHandle, "MaNhom").ToString();
 
             loadManHinh(manhom);
+            btnLuu.Enabled = false;
         }
 
+        //Mỗi lần lưu được 1 quyền
         private void btnLuu_Click(object sender, EventArgs e)
         {
             var rowHandle = gridViewNhom.FocusedRowHandle;
             string manhom = gridViewNhom.GetRowCellValue(rowHandle, "MaNhom").ToString();
 
-            for (int i = 0; i < gridViewNhom.RowCount; i++)
-            {
-                bool? quyen = (bool?)gridViewPQ.GetRowCellValue(i, "CoQuyen");
-                string tenmh = gridViewPQ.GetRowCellValue(i, "TenManHinh").ToString();
-                string mamh = gridViewPQ.GetRowCellValue(i, "MaManHinh").ToString();
+            var rowHandle1 = gridViewPQ.FocusedRowHandle;
+            string mamh = gridViewPQ.GetRowCellValue(rowHandle1, "MaManHinh").ToString();
+            string tenmh = gridViewPQ.GetRowCellValue(rowHandle1, "TenManHinh").ToString();
+            bool? quyen = (bool?)gridViewPQ.GetRowCellValue(rowHandle1, "CoQuyen");
 
-                if (quyen.ToString() == "True")
+            if (kiemTraTonTai(manhom, mamh) == true)
+            {
+                if (layQuyen(manhom, mamh) == quyen.ToString())
+                    MessageBox.Show("Nhóm " + manhom + " đã được phân quyền này rồi !!");
+                else
                 {
-                    if (kiemTraTonTai(manhom, mamh) == false) //khóa chính
-                    {
-                        cT_NHOMNGUOIDUNG_MANHINHTableAdapter.Insert(manhom, gridViewPQ.GetRowCellValue(i, "MaManHinh").ToString(), quyen);
-                        MessageBox.Show("Gán quyền cho " + manhom + " thành công !!");
-                    }
-                    else
-                    {
-                        MessageBox.Show("Nhóm có mã " + manhom + " đã có quyền với màn hình " + tenmh);
-                    }
+                    DataRow change = suaQuyen(manhom, mamh, quyen);
+                    cT_NHOMNGUOIDUNG_MANHINHTableAdapter.Update(change);
+                    MessageBox.Show("Đã cập nhật lại quyền cho nhóm này !!");
                 }
-                else if (quyen.ToString() == "False")
+
+            }
+            else
+            {
+                cT_NHOMNGUOIDUNG_MANHINHTableAdapter.Insert(manhom, mamh, quyen);
+                MessageBox.Show("Gán quyền cho " + manhom + " thành công !!");
+            }
+            btnLuu.Enabled = false;
+        }
+
+        string layQuyen(string s1, string s2)
+        {
+            string quyen = "";
+            DataTable dt = cT_NHOMNGUOIDUNG_MANHINHTableAdapter.GetData();
+            foreach (DataRow drct in dt.Rows)
+            {
+                if (drct["MaNhom"].ToString() == s1 && drct["MaManHinh"].ToString() == s2)
+                    quyen = drct["CoQuyen"].ToString();
+            }
+            return quyen;
+        }
+
+        DataRow suaQuyen(string s1, string s2, bool? s3)
+        {
+            DataRow rowchange = null;
+            DataTable dt = cT_NHOMNGUOIDUNG_MANHINHTableAdapter.GetData();
+            foreach (DataRow drct in dt.Rows)
+            {
+                if (drct["MaNhom"].ToString() == s1 && drct["MaManHinh"].ToString() == s2)
                 {
-                    if (kiemTraTonTai(manhom, mamh) == false) //khóa chính
-                    {
-                        cT_NHOMNGUOIDUNG_MANHINHTableAdapter.Insert(manhom, gridViewPQ.GetRowCellValue(i, "MaManHinh").ToString(), quyen);
-                        MessageBox.Show("Bỏ quyền cho " + manhom + " thành công !!");
-                    }
-                    else
-                    {
-                        MessageBox.Show("Nhóm có mã " + manhom + " đã bị xóa quyền với màn hình " + tenmh);
-                    }
+                    drct["CoQuyen"] = s3;
+                    rowchange = drct;
+                    break;
                 }
             }
+            return rowchange;
         }
 
         bool kiemTraTonTai(string s1, string s2)
@@ -96,5 +122,21 @@ namespace demo23
             }
             return false;
         }
+
+        private void gridViewPQ_Click(object sender, EventArgs e)
+        {
+            btnLuu.Enabled = true;
+        }
+
+        private void gridViewPQ_FocusedRowChanged(object sender, DevExpress.XtraGrid.Views.Base.FocusedRowChangedEventArgs e)
+        {
+            //var rowHandle1 = gridViewPQ.FocusedRowHandle;
+            //string mamh = gridViewPQ.GetRowCellValue(rowHandle1, "MaManHinh").ToString();
+            //string tenmh = gridViewPQ.GetRowCellValue(rowHandle1, "TenManHinh").ToString();
+            //bool? quyen = (bool?)gridViewPQ.GetRowCellValue(rowHandle1, "CoQuyen");
+
+            //dongchon.Rows.Add(rowHandle1);
+        }
+
     }
 }

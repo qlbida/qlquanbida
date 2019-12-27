@@ -188,7 +188,6 @@
             this.tableAdapterManager.NHOMNGUOIDUNGTableAdapter = null;
             this.tableAdapterManager.PHIEUNHAPTableAdapter = null;
             this.tableAdapterManager.TRANGTHAIBANTableAdapter = null;
-            this.tableAdapterManager.TRANGTHAIDATTableAdapter = null;
             this.tableAdapterManager.UpdateOrder = demo23.DataSetBidaTableAdapters.TableAdapterManager.UpdateOrderOption.InsertUpdateDelete;
             // 
             // FrmDoiMatKhau

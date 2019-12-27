@@ -32,10 +32,7 @@ namespace demo23
 
             fdn = new FrmDangNhap();
             Application.Run(fdn);
-            //Application.Run(new FrmCauHinh());
-            //Application.Run(new FrnNguoiDung());
-            //Application.Run(new FrmNguoiDung_NhomND());
-            //Application.Run(new FrmPhanQuyen());
+
         }
     }
 }

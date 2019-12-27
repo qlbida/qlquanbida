@@ -21,9 +21,14 @@ namespace demo23
 
         private void FormDN2_Load(object sender, EventArgs e)
         {
+            dangNhap();
+        }
+
+        void dangNhap()
+        {
             string ketnoi = Properties.Settings.Default.LTWNCConn;
-            
-            FrmCauHinh ch = new FrmCauHinh(ketnoi); 
+
+            FrmCauHinh ch = new FrmCauHinh(ketnoi);
 
             //Truyền dữ liệu vào user control đã kéo vào form (Không khởi tạo đối tượng mới để truyền)
             this.Visible = true;
@@ -41,6 +46,8 @@ namespace demo23
         private void FrmDangNhap_VisibleChanged(object sender, EventArgs e)
         {
             Program.fm.tendn = dangNhapControl1.tendn;
+            dangNhap();
         }
+
     }
 }

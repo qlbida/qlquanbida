@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Configuration; //để chỉnh chuỗi cấu hình
 using XuLy;
+using DevExpress.LookAndFeel; //skin màu cho form
 
 namespace demo23
 {
@@ -88,6 +89,7 @@ namespace demo23
         private void FrmCauHinh_Load(object sender, EventArgs e)
         {
             loadServer();
+            UserLookAndFeel.Default.SetSkinStyle("Office 2010 Blue");
         }
         
     }

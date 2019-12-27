@@ -6,3 +6,35 @@ C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\XuLy\bin\Debug\XuLy.dl
 C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\XuLy\bin\Debug\XuLy.pdb
 C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\XuLy\obj\Debug\XuLy.dll
 C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\XuLy\obj\Debug\XuLy.pdb
+C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\XuLy\obj\Debug\XuLy.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\QuanLyQuanBida\XuLy\bin\Debug\XuLy.dll
+C:\Users\Asus\Desktop\QuanLyQuanBida\XuLy\bin\Debug\XuLy.pdb
+C:\Users\Asus\Desktop\QuanLyQuanBida\XuLy\obj\Debug\XuLy.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\QuanLyQuanBida\XuLy\obj\Debug\XuLy.dll
+C:\Users\Asus\Desktop\QuanLyQuanBida\XuLy\obj\Debug\XuLy.pdb
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\XuLy\bin\Debug\XuLy.dll
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\XuLy\bin\Debug\XuLy.pdb
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\XuLy\obj\Debug\XuLy.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\XuLy\obj\Debug\XuLy.dll
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\XuLy\obj\Debug\XuLy.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\XuLy\bin\Debug\XuLy.dll
+C:\Users\My PC\Desktop\QuanLyQuanBida\XuLy\bin\Debug\XuLy.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\XuLy\obj\Debug\XuLy.dll
+C:\Users\My PC\Desktop\QuanLyQuanBida\XuLy\obj\Debug\XuLy.pdb
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\XuLy\bin\Debug\XuLy.dll
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\XuLy\bin\Debug\XuLy.pdb
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\XuLy\obj\Debug\XuLy.dll
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\XuLy\obj\Debug\XuLy.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\XuLy\bin\Debug\XuLy.dll
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\XuLy\bin\Debug\XuLy.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\XuLy\obj\Debug\XuLy.dll
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\XuLy\obj\Debug\XuLy.pdb
+D:\LTWinNangCao\New folder\QuanLyQuanBida\XuLy\bin\Debug\XuLy.dll
+D:\LTWinNangCao\New folder\QuanLyQuanBida\XuLy\bin\Debug\XuLy.pdb
+D:\LTWinNangCao\New folder\QuanLyQuanBida\XuLy\obj\Debug\XuLy.dll
+D:\LTWinNangCao\New folder\QuanLyQuanBida\XuLy\obj\Debug\XuLy.pdb
+C:\Users\Mylap\Desktop\QuanLyQuanBida\XuLy\bin\Debug\XuLy.dll
+C:\Users\Mylap\Desktop\QuanLyQuanBida\XuLy\bin\Debug\XuLy.pdb
+C:\Users\Mylap\Desktop\QuanLyQuanBida\XuLy\obj\Debug\XuLy.dll
+C:\Users\Mylap\Desktop\QuanLyQuanBida\XuLy\obj\Debug\XuLy.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\XuLy\obj\Debug\XuLy.csprojResolveAssemblyReference.cache

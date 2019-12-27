@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanBida", "QuanBida\QuanBi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XuLy", "XuLy\XuLy.csproj", "{62FCB1E3-5ADA-42D2-A7F5-204112AACC94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{3A6501A4-7140-46FB-A18E-B88B21DAC683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{EE7118E3-D133-421C-9BCA-4EDB905CE976}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,14 @@ Global
 		{62FCB1E3-5ADA-42D2-A7F5-204112AACC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62FCB1E3-5ADA-42D2-A7F5-204112AACC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62FCB1E3-5ADA-42D2-A7F5-204112AACC94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6501A4-7140-46FB-A18E-B88B21DAC683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6501A4-7140-46FB-A18E-B88B21DAC683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6501A4-7140-46FB-A18E-B88B21DAC683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6501A4-7140-46FB-A18E-B88B21DAC683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7118E3-D133-421C-9BCA-4EDB905CE976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7118E3-D133-421C-9BCA-4EDB905CE976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7118E3-D133-421C-9BCA-4EDB905CE976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7118E3-D133-421C-9BCA-4EDB905CE976}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

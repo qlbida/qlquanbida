@@ -42,3 +42,269 @@ C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo23\obj\Debug\QuanL
 C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo23\obj\Debug\demo23.exe.licenses
 C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo23\obj\Debug\demo23.exe
 C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo23\obj\Debug\demo23.pdb
+C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo23\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmThueBan.resources
+C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmHangHoa.resources
+C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmLienHe.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\bin\Debug\demo23.exe.config
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.exe
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.pdb
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\bin\Debug\demo23.exe
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\bin\Debug\demo23.pdb
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\bin\Debug\QuanBida.dll
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\bin\Debug\XuLy.dll
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\bin\Debug\QuanBida.pdb
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\bin\Debug\XuLy.pdb
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\QuanLyQuanBida.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmBanHangKL.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDangNhap.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDoiMatKhau.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmHangHoa.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmKhachHang.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmLienHe.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmMain.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmCauHinh.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNguoiDung.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNguoiDung_NhomND.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNhaCC.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNhapHang.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmPhanQuyen.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmThueBan.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.Properties.Resources.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\QuanLyQuanBida.csproj.GenerateResource.Cache
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\demo23\obj\Debug\demo23.exe.licenses
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\bin\Debug\demo23.exe.config
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.exe
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.pdb
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\bin\Debug\demo23.exe
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\bin\Debug\demo23.pdb
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\bin\Debug\QuanBida.dll
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\bin\Debug\XuLy.dll
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\bin\Debug\QuanBida.pdb
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\bin\Debug\XuLy.pdb
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\QuanLyQuanBida.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmBanHangKL.resources
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDangNhap.resources
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDoiMatKhau.resources
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmHangHoa.resources
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmKhachHang.resources
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmLienHe.resources
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmMain.resources
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmCauHinh.resources
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNguoiDung.resources
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNguoiDung_NhomND.resources
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNhaCC.resources
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNhapHang.resources
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmPhanQuyen.resources
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmThueBan.resources
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.Properties.Resources.resources
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\QuanLyQuanBida.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.exe.licenses
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\bin\Debug\demo23.exe.config
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.exe
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.pdb
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\bin\Debug\demo23.exe
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\bin\Debug\demo23.pdb
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\bin\Debug\QuanBida.dll
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\bin\Debug\XuLy.dll
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\bin\Debug\QuanBida.pdb
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\bin\Debug\XuLy.pdb
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\QuanLyQuanBida.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmBanHangKL.resources
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDangNhap.resources
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDoiMatKhau.resources
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmHangHoa.resources
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmKhachHang.resources
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmLienHe.resources
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmMain.resources
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmCauHinh.resources
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNguoiDung.resources
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNguoiDung_NhomND.resources
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNhaCC.resources
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNhapHang.resources
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmPhanQuyen.resources
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmThueBan.resources
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.Properties.Resources.resources
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\QuanLyQuanBida.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\obj\Debug\demo23.exe.licenses
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\bin\Debug\BLL.dll
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\bin\Debug\BLL.pdb
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\demo23\bin\Debug\DAL.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\bin\Debug\demo23.exe.config
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.exe
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\bin\Debug\demo23.exe
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\bin\Debug\demo23.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\bin\Debug\BLL.dll
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\bin\Debug\DAL.dll
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\bin\Debug\QuanBida.dll
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\bin\Debug\XuLy.dll
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\bin\Debug\QuanBida.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\bin\Debug\XuLy.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\bin\Debug\BLL.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\bin\Debug\DAL.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\QuanLyQuanBida.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmBanHangKL.resources
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDangNhap.resources
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDoiMatKhau.resources
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmHangHoa.resources
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmKhachHang.resources
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmLienHe.resources
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmMain.resources
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmCauHinh.resources
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNguoiDung.resources
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNguoiDung_NhomND.resources
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNhaCC.resources
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNhapHang.resources
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmPhanQuyen.resources
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmThueBan.resources
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.Properties.Resources.resources
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\QuanLyQuanBida.csproj.GenerateResource.Cache
+C:\Users\My PC\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.exe.licenses
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\bin\Debug\demo23.exe.config
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\bin\Debug\demo23.exe
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\bin\Debug\demo23.pdb
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\bin\Debug\BLL.dll
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\bin\Debug\DAL.dll
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\bin\Debug\DevComponents.DotNetBar2.dll
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\bin\Debug\QuanBida.dll
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\bin\Debug\XuLy.dll
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\bin\Debug\QuanBida.pdb
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\bin\Debug\XuLy.pdb
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\bin\Debug\BLL.pdb
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\bin\Debug\DAL.pdb
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\QuanLyQuanBida.csprojResolveAssemblyReference.cache
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmBanHangKL.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDangNhap.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDoiMatKhau.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmHangHoa.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmKhachHang.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmLienHe.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmMain.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmCauHinh.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNguoiDung.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNguoiDung_NhomND.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNhaCC.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNhapHang.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmPhanQuyen.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmThueBan.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.Properties.Resources.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\QuanLyQuanBida.csproj.GenerateResource.Cache
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.exe.licenses
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.exe
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\bin\Debug\demo23.exe.config
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.exe
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\bin\Debug\demo23.exe
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\bin\Debug\demo23.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\bin\Debug\BLL.dll
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\bin\Debug\DAL.dll
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\bin\Debug\QuanBida.dll
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\bin\Debug\XuLy.dll
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\bin\Debug\QuanBida.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\bin\Debug\XuLy.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\bin\Debug\BLL.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\bin\Debug\DAL.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\QuanLyQuanBida.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmBanHangKL.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDangNhap.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDoiMatKhau.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmHangHoa.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmKhachHang.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmLienHe.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmMain.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmCauHinh.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNguoiDung.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNguoiDung_NhomND.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNhaCC.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNhapHang.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmPhanQuyen.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmThueBan.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.Properties.Resources.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\QuanLyQuanBida.csproj.GenerateResource.Cache
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.exe.licenses
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\bin\Debug\demo23.exe.config
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.exe
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.pdb
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\bin\Debug\demo23.exe
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\bin\Debug\demo23.pdb
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\bin\Debug\BLL.dll
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\bin\Debug\DAL.dll
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\bin\Debug\DevComponents.DotNetBar2.dll
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\bin\Debug\QuanBida.dll
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\bin\Debug\XuLy.dll
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\bin\Debug\QuanBida.pdb
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\bin\Debug\XuLy.pdb
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\bin\Debug\BLL.pdb
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\bin\Debug\DAL.pdb
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\QuanLyQuanBida.csprojResolveAssemblyReference.cache
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmBanHangKL.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDangNhap.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDoiMatKhau.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmHangHoa.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmKhachHang.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmLienHe.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmMain.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmCauHinh.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNguoiDung.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNguoiDung_NhomND.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNhaCC.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNhapHang.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmPhanQuyen.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmThueBan.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.Properties.Resources.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\QuanLyQuanBida.csproj.GenerateResource.Cache
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.exe.licenses
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmCongNo.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDoanhThu.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmCongNo.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDoanhThu.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmCongNo.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDoanhThu.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.ReportHoaDon.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FromInHoaDon.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.PrintRibbonControllerResources.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmChuyenBan.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\bin\Debug\demo23.exe.config
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\bin\Debug\demo23.exe
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\bin\Debug\demo23.pdb
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\bin\Debug\BLL.dll
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\bin\Debug\DAL.dll
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\bin\Debug\QuanBida.dll
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\bin\Debug\XuLy.dll
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\bin\Debug\QuanBida.pdb
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\bin\Debug\XuLy.pdb
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\bin\Debug\BLL.pdb
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\bin\Debug\DAL.pdb
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\QuanLyQuanBida.csprojResolveAssemblyReference.cache
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmBanHangKL.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmChuyenBan.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmCongNo.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDangNhap.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDoanhThu.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmDoiMatKhau.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmHangHoa.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmKhachHang.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmLienHe.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmMain.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmCauHinh.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNguoiDung.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNguoiDung_NhomND.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNhaCC.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmNhapHang.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmPhanQuyen.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FrmThueBan.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.FromInHoaDon.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.PrintRibbonControllerResources.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.Properties.Resources.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.ReportHoaDon.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\QuanLyQuanBida.csproj.GenerateResource.Cache
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.exe.licenses
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.exe
+C:\Users\Mylap\Desktop\QuanLyQuanBida\demo23\obj\Debug\demo23.pdb

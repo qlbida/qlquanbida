@@ -21,3 +21,92 @@ C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\QuanBida\obj\Debug\Qua
 C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll.licenses
 C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll
 C:\Users\My PC\Documents\GitHub\qlquanbida\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.pdb
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\QuanBida\bin\Debug\QuanBida.dll
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\QuanBida\bin\Debug\QuanBida.pdb
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\QuanBida\bin\Debug\XuLy.dll
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\QuanBida\bin\Debug\XuLy.pdb
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.DangNhapControl.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.Properties.Resources.resources
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.csproj.GenerateResource.Cache
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll.licenses
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll
+C:\Users\My PC\Documents\GitHub\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.pdb
+C:\Users\Asus\Desktop\QuanLyQuanBida\QuanBida\bin\Debug\QuanBida.dll
+C:\Users\Asus\Desktop\QuanLyQuanBida\QuanBida\bin\Debug\QuanBida.pdb
+C:\Users\Asus\Desktop\QuanLyQuanBida\QuanBida\bin\Debug\XuLy.dll
+C:\Users\Asus\Desktop\QuanLyQuanBida\QuanBida\bin\Debug\XuLy.pdb
+C:\Users\Asus\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.DangNhapControl.resources
+C:\Users\Asus\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.Properties.Resources.resources
+C:\Users\Asus\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll.licenses
+C:\Users\Asus\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll
+C:\Users\Asus\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.pdb
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\QuanBida\bin\Debug\QuanBida.dll
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\QuanBida\bin\Debug\QuanBida.pdb
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\QuanBida\bin\Debug\XuLy.dll
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\QuanBida\bin\Debug\XuLy.pdb
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.DangNhapControl.resources
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.Properties.Resources.resources
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll.licenses
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll
+C:\Users\Asus\Desktop\DoAn\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\QuanBida\bin\Debug\QuanBida.dll
+C:\Users\My PC\Desktop\QuanLyQuanBida\QuanBida\bin\Debug\QuanBida.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\QuanBida\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\My PC\Desktop\QuanLyQuanBida\QuanBida\bin\Debug\XuLy.dll
+C:\Users\My PC\Desktop\QuanLyQuanBida\QuanBida\bin\Debug\XuLy.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.DangNhapControl.resources
+C:\Users\My PC\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.Properties.Resources.resources
+C:\Users\My PC\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.csproj.GenerateResource.Cache
+C:\Users\My PC\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll.licenses
+C:\Users\My PC\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll
+C:\Users\My PC\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.pdb
+C:\Users\My PC\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.csprojResolveAssemblyReference.cache
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\QuanBida\bin\Debug\QuanBida.dll
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\QuanBida\bin\Debug\QuanBida.pdb
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\QuanBida\bin\Debug\XuLy.dll
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\QuanBida\bin\Debug\XuLy.pdb
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.csprojResolveAssemblyReference.cache
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.DangNhapControl.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.Properties.Resources.resources
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.csproj.GenerateResource.Cache
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll.licenses
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll
+D:\LTWinNangCao\UngDung\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\QuanBida\bin\Debug\QuanBida.dll
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\QuanBida\bin\Debug\QuanBida.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\QuanBida\bin\Debug\XuLy.dll
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\QuanBida\bin\Debug\XuLy.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.DangNhapControl.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.Properties.Resources.resources
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.csproj.GenerateResource.Cache
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll.licenses
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.pdb
+C:\Users\My PC\Desktop\DA_LTCSHARP2_NHOM_XX\SOURCE\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.csprojResolveAssemblyReference.cache
+D:\LTWinNangCao\New folder\QuanLyQuanBida\QuanBida\bin\Debug\QuanBida.dll
+D:\LTWinNangCao\New folder\QuanLyQuanBida\QuanBida\bin\Debug\QuanBida.pdb
+D:\LTWinNangCao\New folder\QuanLyQuanBida\QuanBida\bin\Debug\XuLy.dll
+D:\LTWinNangCao\New folder\QuanLyQuanBida\QuanBida\bin\Debug\XuLy.pdb
+D:\LTWinNangCao\New folder\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.csprojResolveAssemblyReference.cache
+D:\LTWinNangCao\New folder\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.DangNhapControl.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.Properties.Resources.resources
+D:\LTWinNangCao\New folder\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.csproj.GenerateResource.Cache
+D:\LTWinNangCao\New folder\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll.licenses
+D:\LTWinNangCao\New folder\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll
+D:\LTWinNangCao\New folder\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.pdb
+C:\Users\Mylap\Desktop\QuanLyQuanBida\QuanBida\bin\Debug\QuanBida.dll
+C:\Users\Mylap\Desktop\QuanLyQuanBida\QuanBida\bin\Debug\QuanBida.pdb
+C:\Users\Mylap\Desktop\QuanLyQuanBida\QuanBida\bin\Debug\XuLy.dll
+C:\Users\Mylap\Desktop\QuanLyQuanBida\QuanBida\bin\Debug\XuLy.pdb
+C:\Users\Mylap\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.csprojResolveAssemblyReference.cache
+C:\Users\Mylap\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.DangNhapControl.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.Properties.Resources.resources
+C:\Users\Mylap\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.csproj.GenerateResource.Cache
+C:\Users\Mylap\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll.licenses
+C:\Users\Mylap\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.dll
+C:\Users\Mylap\Desktop\QuanLyQuanBida\QuanBida\obj\Debug\QuanBida.pdb

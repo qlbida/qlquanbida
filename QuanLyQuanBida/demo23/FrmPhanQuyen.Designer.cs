@@ -142,6 +142,8 @@
             this.gridViewPQ.GridControl = this.gridControlPhanQuyen;
             this.gridViewPQ.Name = "gridViewPQ";
             this.gridViewPQ.OptionsDetail.DetailMode = DevExpress.XtraGrid.Views.Grid.DetailMode.Default;
+            this.gridViewPQ.FocusedRowChanged += new DevExpress.XtraGrid.Views.Base.FocusedRowChangedEventHandler(this.gridViewPQ_FocusedRowChanged);
+            this.gridViewPQ.Click += new System.EventHandler(this.gridViewPQ_Click);
             // 
             // colMaManHinh
             // 
@@ -335,7 +337,6 @@
             this.tableAdapterManager.NHOMNGUOIDUNGTableAdapter = this.nHOMNGUOIDUNGTableAdapter;
             this.tableAdapterManager.PHIEUNHAPTableAdapter = null;
             this.tableAdapterManager.TRANGTHAIBANTableAdapter = null;
-            this.tableAdapterManager.TRANGTHAIDATTableAdapter = null;
             this.tableAdapterManager.UpdateOrder = demo23.DataSetBidaTableAdapters.TableAdapterManager.UpdateOrderOption.InsertUpdateDelete;
             // 
             // pHANQUYENTableAdapter

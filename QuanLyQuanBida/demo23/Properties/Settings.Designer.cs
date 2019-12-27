@@ -28,6 +28,17 @@ namespace demo23.Properties {
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
         [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAPTOP-V3N8G0SP;Initial Catalog=QLQuanBIDA;User ID=sa;Password=sa2012" +
             "")]
+        public string QLQuanBIDAConnectionString {
+            get {
+                return ((string)(this["QLQuanBIDAConnectionString"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAPTOP-V3N8G0SP;Initial Catalog=QLQuanBIDA;User ID=sa;Password=sa2012" +
+            "")]
         public string LTWNCConn {
             get {
                 return ((string)(this["LTWNCConn"]));
@@ -37,10 +48,11 @@ namespace demo23.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAPTOP-V3N8G0SP;Initial Catalog=QLQuanBIDA;Integrated Security=True")]
-        public string QLQuanBIDAConnectionString {
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LAPTOP-V3N8G0SP;Initial Catalog=QLQuanBIDA;User ID=sa;Password=sa2012" +
+            "")]
+        public string QLQuanBIDAConnectionString1 {
             get {
-                return ((string)(this["QLQuanBIDAConnectionString"]));
+                return ((string)(this["QLQuanBIDAConnectionString1"]));
             }
         }
     }

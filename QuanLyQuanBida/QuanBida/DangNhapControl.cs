@@ -28,7 +28,6 @@ namespace QuanBida
         private void btnDangNhap_Click(object sender, EventArgs e)
         {
             CauHinh.connect = strcon;
-            //MessageBox.Show(CauHinh.connect);
 
             if (string.IsNullOrEmpty(txtTenDN.Text.Trim()))
             {

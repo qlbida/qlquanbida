@@ -62,7 +62,7 @@
             this.btnThoat.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(134, 36);
-            this.btnThoat.TabIndex = 1;
+            this.btnThoat.TabIndex = 2;
             this.btnThoat.Text = "Thoát";
             this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
             // 
@@ -73,7 +73,7 @@
             this.labelControl1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.labelControl1.Name = "labelControl1";
             this.labelControl1.Size = new System.Drawing.Size(134, 24);
-            this.labelControl1.TabIndex = 2;
+            this.labelControl1.TabIndex = 4;
             this.labelControl1.Text = "Tên đăng nhập";
             // 
             // labelControl2
@@ -83,7 +83,7 @@
             this.labelControl2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.labelControl2.Name = "labelControl2";
             this.labelControl2.Size = new System.Drawing.Size(82, 24);
-            this.labelControl2.TabIndex = 4;
+            this.labelControl2.TabIndex = 5;
             this.labelControl2.Text = "Mật khẩu";
             // 
             // txtMatKhau
@@ -95,7 +95,7 @@
             this.txtMatKhau.Properties.Appearance.Options.UseFont = true;
             this.txtMatKhau.Properties.PasswordChar = '*';
             this.txtMatKhau.Size = new System.Drawing.Size(229, 30);
-            this.txtMatKhau.TabIndex = 3;
+            this.txtMatKhau.TabIndex = 1;
             // 
             // pictureEdit1
             // 
@@ -106,7 +106,7 @@
             this.pictureEdit1.Properties.ShowCameraMenuItem = DevExpress.XtraEditors.Controls.CameraMenuItemVisibility.Auto;
             this.pictureEdit1.Properties.ZoomAccelerationFactor = 1D;
             this.pictureEdit1.Size = new System.Drawing.Size(155, 208);
-            this.pictureEdit1.TabIndex = 5;
+            this.pictureEdit1.TabIndex = 8;
             // 
             // btnDangNhap
             // 
@@ -117,7 +117,7 @@
             this.btnDangNhap.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnDangNhap.Name = "btnDangNhap";
             this.btnDangNhap.Size = new System.Drawing.Size(160, 36);
-            this.btnDangNhap.TabIndex = 6;
+            this.btnDangNhap.TabIndex = 3;
             this.btnDangNhap.Text = "Đăng nhập";
             this.btnDangNhap.Click += new System.EventHandler(this.btnDangNhap_Click);
             // 
@@ -128,7 +128,7 @@
             this.labelControl4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.labelControl4.Name = "labelControl4";
             this.labelControl4.Size = new System.Drawing.Size(433, 21);
-            this.labelControl4.TabIndex = 8;
+            this.labelControl4.TabIndex = 7;
             this.labelControl4.Text = "- Vui lòng kiểm tra Caps lock, Unikey.. trước khi đăng nhập";
             // 
             // checkBox1
@@ -138,7 +138,7 @@
             this.checkBox1.Location = new System.Drawing.Point(346, 157);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(121, 21);
-            this.checkBox1.TabIndex = 10;
+            this.checkBox1.TabIndex = 6;
             this.checkBox1.Text = "Hiện mật khẩu";
             this.checkBox1.UseVisualStyleBackColor = true;
             this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
